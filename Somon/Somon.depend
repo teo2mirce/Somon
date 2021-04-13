@@ -1,0 +1,1193 @@
+# depslib dependency file v1.0
+1539605737 source:c:\users\one\desktop\somon\main.cpp
+	<iostream>
+	"Tabla.h"
+	"Database.h"
+	<wchar.h>
+	"main.h"
+	"json/json11.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+	<fstream>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cstring>
+	"Link2Dom.h"
+	<dirent.h>
+
+1536533051 source:c:\users\one\desktop\somon\database.cpp
+	"Database.h"
+
+1534194400 c:\users\one\desktop\somon\database.h
+	<mysql++.h>
+	<string>
+
+1523734860 c:\users\one\desktop\somon\mysql\mysql++.h
+	"connection.h"
+	"cpool.h"
+	"query.h"
+	"scopedconnection.h"
+	"sql_types.h"
+	"transaction.h"
+
+1523734860 c:\users\one\desktop\somon\mysql\connection.h
+	"common.h"
+	"noexceptions.h"
+	"options.h"
+	<string>
+	"tcp_connection.h"
+	"uds_connection.h"
+	"wnp_connection.h"
+
+1523734860 c:\users\one\desktop\somon\mysql\common.h
+	<winsock.h>
+	"config.h"
+	<mysql/mysql_version.h>
+	<mysql_version.h>
+	<mysql/mysql.h>
+	<mysql.h>
+
+1523734860 c:\users\one\desktop\somon\mysql\mysql_version.h
+	<custom_conf.h>
+
+1523734860 c:\users\one\desktop\somon\mysql\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1523734860 c:\users\one\desktop\somon\mysql\mysql_com.h
+
+1523734860 c:\users\one\desktop\somon\mysql\mysql_time.h
+
+1523734860 c:\users\one\desktop\somon\mysql\my_list.h
+
+1523734920 c:\users\one\desktop\somon\mysql\typelib.h
+	"my_alloc.h"
+
+1523734860 c:\users\one\desktop\somon\mysql\my_alloc.h
+
+1523734920 c:\users\one\desktop\somon\mysql\noexceptions.h
+	"common.h"
+
+1523734920 c:\users\one\desktop\somon\mysql\options.h
+	"common.h"
+	<deque>
+	<string>
+
+1523734920 c:\users\one\desktop\somon\mysql\tcp_connection.h
+	"connection.h"
+
+1523734920 c:\users\one\desktop\somon\mysql\uds_connection.h
+	"connection.h"
+
+1523734920 c:\users\one\desktop\somon\mysql\wnp_connection.h
+	"connection.h"
+
+1523734860 c:\users\one\desktop\somon\mysql\cpool.h
+	"beemutex.h"
+	<list>
+	<assert.h>
+	<time.h>
+
+1523734860 c:\users\one\desktop\somon\mysql\beemutex.h
+	"exceptions.h"
+
+1523734860 c:\users\one\desktop\somon\mysql\exceptions.h
+	"options.h"
+	<exception>
+	<string>
+	<sstream>
+	<typeinfo>
+
+1523734920 c:\users\one\desktop\somon\mysql\query.h
+	"common.h"
+	"exceptions.h"
+	"noexceptions.h"
+	"qparms.h"
+	"querydef.h"
+	"result.h"
+	"row.h"
+	"sqlstream.h"
+	"stadapter.h"
+	"transaction.h"
+	<deque>
+	<iomanip>
+	<list>
+	<map>
+	<set>
+	<vector>
+	<ext/slist>
+	<slist>
+	"insertpolicy.h"
+
+1523734920 c:\users\one\desktop\somon\mysql\qparms.h
+	"stadapter.h"
+	<vector>
+
+1523734920 c:\users\one\desktop\somon\mysql\stadapter.h
+	"common.h"
+	"datetime.h"
+	"null.h"
+	"sql_buffer.h"
+	"tiny_int.h"
+	<stdexcept>
+	<string>
+
+1523734860 c:\users\one\desktop\somon\mysql\datetime.h
+	"common.h"
+	"comparable.h"
+	<string>
+	<iostream>
+
+1523734860 c:\users\one\desktop\somon\mysql\comparable.h
+
+1523734920 c:\users\one\desktop\somon\mysql\null.h
+	"exceptions.h"
+	<iostream>
+	<string>
+
+1523734920 c:\users\one\desktop\somon\mysql\sql_buffer.h
+	"refcounted.h"
+	"type_info.h"
+	<string>
+
+1523734920 c:\users\one\desktop\somon\mysql\refcounted.h
+	<memory>
+	<stddef.h>
+
+1523734920 c:\users\one\desktop\somon\mysql\type_info.h
+	"common.h"
+	"exceptions.h"
+	<map>
+	<sstream>
+	<typeinfo>
+
+1523734920 c:\users\one\desktop\somon\mysql\tiny_int.h
+	"common.h"
+	<ostream>
+
+1523734920 c:\users\one\desktop\somon\mysql\querydef.h
+
+1523734920 c:\users\one\desktop\somon\mysql\result.h
+	"common.h"
+	"exceptions.h"
+	"field.h"
+	"field_names.h"
+	"field_types.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"row.h"
+
+1523734860 c:\users\one\desktop\somon\mysql\field.h
+	"common.h"
+	"type_info.h"
+	<vector>
+
+1523734860 c:\users\one\desktop\somon\mysql\field_names.h
+	<string>
+	<vector>
+
+1523734860 c:\users\one\desktop\somon\mysql\field_types.h
+	"type_info.h"
+	<vector>
+
+1523734920 c:\users\one\desktop\somon\mysql\row.h
+	"common.h"
+	"mystring.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"vallist.h"
+	<vector>
+	<string>
+
+1523734860 c:\users\one\desktop\somon\mysql\mystring.h
+	"common.h"
+	"datetime.h"
+	"exceptions.h"
+	"null.h"
+	"sql_buffer.h"
+	<string>
+	<sstream>
+	<limits>
+	<stdlib.h>
+	<string.h>
+
+1523734920 c:\users\one\desktop\somon\mysql\vallist.h
+	"manip.h"
+	<string>
+	<vector>
+
+1523734860 c:\users\one\desktop\somon\mysql\manip.h
+	"common.h"
+	"myset.h"
+	"stadapter.h"
+	<iostream>
+
+1523734860 c:\users\one\desktop\somon\mysql\myset.h
+	"common.h"
+	"mystring.h"
+	"stream2string.h"
+	<iostream>
+	<set>
+
+1523734920 c:\users\one\desktop\somon\mysql\stream2string.h
+	<sstream>
+	<string>
+
+1523734920 c:\users\one\desktop\somon\mysql\sqlstream.h
+	"common.h"
+	<sstream>
+
+1523734920 c:\users\one\desktop\somon\mysql\transaction.h
+	"common.h"
+
+1523734860 c:\users\one\desktop\somon\mysql\insertpolicy.h
+
+1523734920 c:\users\one\desktop\somon\mysql\scopedconnection.h
+	"common.h"
+
+1523734920 c:\users\one\desktop\somon\mysql\sql_types.h
+	"common.h"
+	"tiny_int.h"
+	<string>
+	<stdint.h>
+
+1534194327 source:c:\users\one\desktop\somon\tabla.cpp
+	"Tabla.h"
+	<time.h>
+	"Database.h"
+
+1534200662 c:\users\one\desktop\somon\tabla.h
+	<string>
+	<vector>
+	<vector>
+	"Database.h"
+	<algorithm>
+	<unordered_map>
+	<queue>
+	"Database.h"
+
+1530913979 source:c:\users\neo\desktop\somon\database.cpp
+	"Database.h"
+
+1534194400 c:\users\neo\desktop\somon\database.h
+	<mysql++.h>
+	<string>
+
+1523734860 c:\users\neo\desktop\somon\mysql\mysql++.h
+	"connection.h"
+	"cpool.h"
+	"query.h"
+	"scopedconnection.h"
+	"sql_types.h"
+	"transaction.h"
+
+1523734860 c:\users\neo\desktop\somon\mysql\connection.h
+	"common.h"
+	"noexceptions.h"
+	"options.h"
+	<string>
+	"tcp_connection.h"
+	"uds_connection.h"
+	"wnp_connection.h"
+
+1523734860 c:\users\neo\desktop\somon\mysql\common.h
+	<winsock.h>
+	"config.h"
+	<mysql/mysql_version.h>
+	<mysql_version.h>
+	<mysql/mysql.h>
+	<mysql.h>
+
+1523734860 c:\users\neo\desktop\somon\mysql\mysql_version.h
+	<custom_conf.h>
+
+1523734860 c:\users\neo\desktop\somon\mysql\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1523734860 c:\users\neo\desktop\somon\mysql\mysql_com.h
+
+1523734860 c:\users\neo\desktop\somon\mysql\mysql_time.h
+
+1523734860 c:\users\neo\desktop\somon\mysql\my_list.h
+
+1523734920 c:\users\neo\desktop\somon\mysql\typelib.h
+	"my_alloc.h"
+
+1523734860 c:\users\neo\desktop\somon\mysql\my_alloc.h
+
+1523734920 c:\users\neo\desktop\somon\mysql\noexceptions.h
+	"common.h"
+
+1523734920 c:\users\neo\desktop\somon\mysql\options.h
+	"common.h"
+	<deque>
+	<string>
+
+1523734920 c:\users\neo\desktop\somon\mysql\tcp_connection.h
+	"connection.h"
+
+1523734920 c:\users\neo\desktop\somon\mysql\uds_connection.h
+	"connection.h"
+
+1523734920 c:\users\neo\desktop\somon\mysql\wnp_connection.h
+	"connection.h"
+
+1523734860 c:\users\neo\desktop\somon\mysql\cpool.h
+	"beemutex.h"
+	<list>
+	<assert.h>
+	<time.h>
+
+1523734860 c:\users\neo\desktop\somon\mysql\beemutex.h
+	"exceptions.h"
+
+1523734860 c:\users\neo\desktop\somon\mysql\exceptions.h
+	"options.h"
+	<exception>
+	<string>
+	<sstream>
+	<typeinfo>
+
+1523734920 c:\users\neo\desktop\somon\mysql\query.h
+	"common.h"
+	"exceptions.h"
+	"noexceptions.h"
+	"qparms.h"
+	"querydef.h"
+	"result.h"
+	"row.h"
+	"sqlstream.h"
+	"stadapter.h"
+	"transaction.h"
+	<deque>
+	<iomanip>
+	<list>
+	<map>
+	<set>
+	<vector>
+	<ext/slist>
+	<slist>
+	"insertpolicy.h"
+
+1523734920 c:\users\neo\desktop\somon\mysql\qparms.h
+	"stadapter.h"
+	<vector>
+
+1523734920 c:\users\neo\desktop\somon\mysql\stadapter.h
+	"common.h"
+	"datetime.h"
+	"null.h"
+	"sql_buffer.h"
+	"tiny_int.h"
+	<stdexcept>
+	<string>
+
+1523734860 c:\users\neo\desktop\somon\mysql\datetime.h
+	"common.h"
+	"comparable.h"
+	<string>
+	<iostream>
+
+1523734860 c:\users\neo\desktop\somon\mysql\comparable.h
+
+1523734920 c:\users\neo\desktop\somon\mysql\null.h
+	"exceptions.h"
+	<iostream>
+	<string>
+
+1523734920 c:\users\neo\desktop\somon\mysql\sql_buffer.h
+	"refcounted.h"
+	"type_info.h"
+	<string>
+
+1523734920 c:\users\neo\desktop\somon\mysql\refcounted.h
+	<memory>
+	<stddef.h>
+
+1523734920 c:\users\neo\desktop\somon\mysql\type_info.h
+	"common.h"
+	"exceptions.h"
+	<map>
+	<sstream>
+	<typeinfo>
+
+1523734920 c:\users\neo\desktop\somon\mysql\tiny_int.h
+	"common.h"
+	<ostream>
+
+1523734920 c:\users\neo\desktop\somon\mysql\querydef.h
+
+1523734920 c:\users\neo\desktop\somon\mysql\result.h
+	"common.h"
+	"exceptions.h"
+	"field.h"
+	"field_names.h"
+	"field_types.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"row.h"
+
+1523734860 c:\users\neo\desktop\somon\mysql\field.h
+	"common.h"
+	"type_info.h"
+	<vector>
+
+1523734860 c:\users\neo\desktop\somon\mysql\field_names.h
+	<string>
+	<vector>
+
+1523734860 c:\users\neo\desktop\somon\mysql\field_types.h
+	"type_info.h"
+	<vector>
+
+1523734920 c:\users\neo\desktop\somon\mysql\row.h
+	"common.h"
+	"mystring.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"vallist.h"
+	<vector>
+	<string>
+
+1523734860 c:\users\neo\desktop\somon\mysql\mystring.h
+	"common.h"
+	"datetime.h"
+	"exceptions.h"
+	"null.h"
+	"sql_buffer.h"
+	<string>
+	<sstream>
+	<limits>
+	<stdlib.h>
+	<string.h>
+
+1523734920 c:\users\neo\desktop\somon\mysql\vallist.h
+	"manip.h"
+	<string>
+	<vector>
+
+1523734860 c:\users\neo\desktop\somon\mysql\manip.h
+	"common.h"
+	"myset.h"
+	"stadapter.h"
+	<iostream>
+
+1523734860 c:\users\neo\desktop\somon\mysql\myset.h
+	"common.h"
+	"mystring.h"
+	"stream2string.h"
+	<iostream>
+	<set>
+
+1523734920 c:\users\neo\desktop\somon\mysql\stream2string.h
+	<sstream>
+	<string>
+
+1523734920 c:\users\neo\desktop\somon\mysql\sqlstream.h
+	"common.h"
+	<sstream>
+
+1523734920 c:\users\neo\desktop\somon\mysql\transaction.h
+	"common.h"
+
+1523734860 c:\users\neo\desktop\somon\mysql\insertpolicy.h
+
+1523734920 c:\users\neo\desktop\somon\mysql\scopedconnection.h
+	"common.h"
+
+1523734920 c:\users\neo\desktop\somon\mysql\sql_types.h
+	"common.h"
+	"tiny_int.h"
+	<string>
+	<stdint.h>
+
+1535320223 source:c:\users\neo\desktop\somon\main.cpp
+	<iostream>
+	"Tabla.h"
+	"Database.h"
+	<wchar.h>
+	"main.h"
+	"json/json11.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+	<fstream>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cstring>
+	"Link2Dom.h"
+	<dirent.h>
+	"InfInt.h"
+
+1534200662 c:\users\neo\desktop\somon\tabla.h
+	<string>
+	<vector>
+	<vector>
+	"Database.h"
+	<algorithm>
+	<unordered_map>
+	<queue>
+	"Database.h"
+
+1534194327 source:c:\users\neo\desktop\somon\tabla.cpp
+	"Tabla.h"
+	<time.h>
+	"Database.h"
+
+1523730655 source:c:\users\neo\desktop\ceamfacut\somon\database.cpp
+	"Database.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\database.h
+	<mysql++.h>
+	<string>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\mysql++.h
+	"connection.h"
+	"cpool.h"
+	"query.h"
+	"scopedconnection.h"
+	"sql_types.h"
+	"transaction.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\connection.h
+	"common.h"
+	"noexceptions.h"
+	"options.h"
+	<string>
+	"tcp_connection.h"
+	"uds_connection.h"
+	"wnp_connection.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\common.h
+	<winsock.h>
+	"config.h"
+	<mysql/mysql_version.h>
+	<mysql_version.h>
+	<mysql/mysql.h>
+	<mysql.h>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\mysql_version.h
+	<custom_conf.h>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\mysql_com.h
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\mysql_time.h
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\my_list.h
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\typelib.h
+	"my_alloc.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\my_alloc.h
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\noexceptions.h
+	"common.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\options.h
+	"common.h"
+	<deque>
+	<string>
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\tcp_connection.h
+	"connection.h"
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\uds_connection.h
+	"connection.h"
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\wnp_connection.h
+	"connection.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\cpool.h
+	"beemutex.h"
+	<list>
+	<assert.h>
+	<time.h>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\beemutex.h
+	"exceptions.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\exceptions.h
+	"options.h"
+	<exception>
+	<string>
+	<sstream>
+	<typeinfo>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\query.h
+	"common.h"
+	"exceptions.h"
+	"noexceptions.h"
+	"qparms.h"
+	"querydef.h"
+	"result.h"
+	"row.h"
+	"sqlstream.h"
+	"stadapter.h"
+	"transaction.h"
+	<deque>
+	<iomanip>
+	<list>
+	<map>
+	<set>
+	<vector>
+	<ext/slist>
+	<slist>
+	"insertpolicy.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\qparms.h
+	"stadapter.h"
+	<vector>
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\stadapter.h
+	"common.h"
+	"datetime.h"
+	"null.h"
+	"sql_buffer.h"
+	"tiny_int.h"
+	<stdexcept>
+	<string>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\datetime.h
+	"common.h"
+	"comparable.h"
+	<string>
+	<iostream>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\comparable.h
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\null.h
+	"exceptions.h"
+	<iostream>
+	<string>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\sql_buffer.h
+	"refcounted.h"
+	"type_info.h"
+	<string>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\refcounted.h
+	<memory>
+	<stddef.h>
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\type_info.h
+	"common.h"
+	"exceptions.h"
+	<map>
+	<sstream>
+	<typeinfo>
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\tiny_int.h
+	"common.h"
+	<ostream>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\querydef.h
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\result.h
+	"common.h"
+	"exceptions.h"
+	"field.h"
+	"field_names.h"
+	"field_types.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"row.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\field.h
+	"common.h"
+	"type_info.h"
+	<vector>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\field_names.h
+	<string>
+	<vector>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\field_types.h
+	"type_info.h"
+	<vector>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\row.h
+	"common.h"
+	"mystring.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"vallist.h"
+	<vector>
+	<string>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\mystring.h
+	"common.h"
+	"datetime.h"
+	"exceptions.h"
+	"null.h"
+	"sql_buffer.h"
+	<string>
+	<sstream>
+	<limits>
+	<stdlib.h>
+	<string.h>
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\vallist.h
+	"manip.h"
+	<string>
+	<vector>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\manip.h
+	"common.h"
+	"myset.h"
+	"stadapter.h"
+	<iostream>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\myset.h
+	"common.h"
+	"mystring.h"
+	"stream2string.h"
+	<iostream>
+	<set>
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\stream2string.h
+	<sstream>
+	<string>
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\sqlstream.h
+	"common.h"
+	<sstream>
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\mysql\transaction.h
+	"common.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\insertpolicy.h
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\scopedconnection.h
+	"common.h"
+
+1523719260 c:\users\neo\desktop\ceamfacut\somon\mysql\sql_types.h
+	"common.h"
+	"tiny_int.h"
+	<string>
+	<stdint.h>
+
+1523737775 source:c:\users\neo\desktop\ceamfacut\somon\main.cpp
+	<iostream>
+	"Database.h"
+	"Tabla.h"
+	<wchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+	<iostream>
+	<string>
+
+1523719320 c:\users\neo\desktop\ceamfacut\somon\tabla.h
+	<string>
+	<vector>
+	<vector>
+	"Database.h"
+	<algorithm>
+	<unordered_map>
+	<queue>
+	"Database.h"
+
+1523731074 source:c:\users\neo\desktop\ceamfacut\somon\tabla.cpp
+	"Tabla.h"
+	<time.h>
+	"Database.h"
+
+1498006102 source:c:\users\one\desktop\somon\json\json11.cpp
+	"json11.hpp"
+	<cassert>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<limits>
+
+1498006102 c:\users\one\desktop\somon\json\json11.hpp
+	<string>
+	<vector>
+	<map>
+	<memory>
+	<initializer_list>
+
+1498006102 source:c:\users\neo\desktop\somon\json\json11.cpp
+	"json11.hpp"
+	<cassert>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<limits>
+
+1498006102 c:\users\neo\desktop\somon\json\json11.hpp
+	<string>
+	<vector>
+	<map>
+	<memory>
+	<initializer_list>
+
+1525526873 c:\users\neo\desktop\somon\infint.h
+	<iostream>
+	<vector>
+	<sstream>
+	<iomanip>
+	<climits>
+	<exception>
+
+1525526873 c:\users\one\desktop\somon\infint.h
+	<iostream>
+	<vector>
+	<sstream>
+	<iomanip>
+	<climits>
+	<exception>
+
+1534878815 c:\users\neo\desktop\somon\link2dom.h
+
+1534878762 c:\users\neo\desktop\somon\main.h
+	<cstdio>
+	<iostream>
+	<memory>
+	<stdexcept>
+	<string>
+	<array>
+	<stdio.h>
+
+1536769146 c:\users\one\desktop\somon\main.h
+	<cstdio>
+	<iostream>
+	<memory>
+	<stdexcept>
+	<string>
+	<array>
+	<stdio.h>
+
+1534878815 c:\users\one\desktop\somon\link2dom.h
+
+1536533051 source:f:\personal\somon\somon\database.cpp
+	"Database.h"
+
+1534194400 f:\personal\somon\somon\database.h
+	<mysql++.h>
+	<string>
+
+1523734860 f:\personal\somon\somon\mysql\mysql++.h
+	"connection.h"
+	"cpool.h"
+	"query.h"
+	"scopedconnection.h"
+	"sql_types.h"
+	"transaction.h"
+
+1523734860 f:\personal\somon\somon\mysql\connection.h
+	"common.h"
+	"noexceptions.h"
+	"options.h"
+	<string>
+	"tcp_connection.h"
+	"uds_connection.h"
+	"wnp_connection.h"
+
+1523734860 f:\personal\somon\somon\mysql\common.h
+	<winsock.h>
+	"config.h"
+	<mysql/mysql_version.h>
+	<mysql_version.h>
+	<mysql/mysql.h>
+	<mysql.h>
+
+1523734860 f:\personal\somon\somon\mysql\mysql_version.h
+	<custom_conf.h>
+
+1523734860 f:\personal\somon\somon\mysql\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1523734860 f:\personal\somon\somon\mysql\mysql_com.h
+
+1523734860 f:\personal\somon\somon\mysql\mysql_time.h
+
+1523734860 f:\personal\somon\somon\mysql\my_list.h
+
+1523734920 f:\personal\somon\somon\mysql\typelib.h
+	"my_alloc.h"
+
+1523734860 f:\personal\somon\somon\mysql\my_alloc.h
+
+1523734920 f:\personal\somon\somon\mysql\noexceptions.h
+	"common.h"
+
+1523734920 f:\personal\somon\somon\mysql\options.h
+	"common.h"
+	<deque>
+	<string>
+
+1523734920 f:\personal\somon\somon\mysql\tcp_connection.h
+	"connection.h"
+
+1523734920 f:\personal\somon\somon\mysql\uds_connection.h
+	"connection.h"
+
+1523734920 f:\personal\somon\somon\mysql\wnp_connection.h
+	"connection.h"
+
+1523734860 f:\personal\somon\somon\mysql\cpool.h
+	"beemutex.h"
+	<list>
+	<assert.h>
+	<time.h>
+
+1523734860 f:\personal\somon\somon\mysql\beemutex.h
+	"exceptions.h"
+
+1523734860 f:\personal\somon\somon\mysql\exceptions.h
+	"options.h"
+	<exception>
+	<string>
+	<sstream>
+	<typeinfo>
+
+1523734920 f:\personal\somon\somon\mysql\query.h
+	"common.h"
+	"exceptions.h"
+	"noexceptions.h"
+	"qparms.h"
+	"querydef.h"
+	"result.h"
+	"row.h"
+	"sqlstream.h"
+	"stadapter.h"
+	"transaction.h"
+	<deque>
+	<iomanip>
+	<list>
+	<map>
+	<set>
+	<vector>
+	<ext/slist>
+	<slist>
+	"insertpolicy.h"
+
+1523734920 f:\personal\somon\somon\mysql\qparms.h
+	"stadapter.h"
+	<vector>
+
+1523734920 f:\personal\somon\somon\mysql\stadapter.h
+	"common.h"
+	"datetime.h"
+	"null.h"
+	"sql_buffer.h"
+	"tiny_int.h"
+	<stdexcept>
+	<string>
+
+1523734860 f:\personal\somon\somon\mysql\datetime.h
+	"common.h"
+	"comparable.h"
+	<string>
+	<iostream>
+
+1523734860 f:\personal\somon\somon\mysql\comparable.h
+
+1523734920 f:\personal\somon\somon\mysql\null.h
+	"exceptions.h"
+	<iostream>
+	<string>
+
+1523734920 f:\personal\somon\somon\mysql\sql_buffer.h
+	"refcounted.h"
+	"type_info.h"
+	<string>
+
+1523734920 f:\personal\somon\somon\mysql\refcounted.h
+	<memory>
+	<stddef.h>
+
+1523734920 f:\personal\somon\somon\mysql\type_info.h
+	"common.h"
+	"exceptions.h"
+	<map>
+	<sstream>
+	<typeinfo>
+
+1523734920 f:\personal\somon\somon\mysql\tiny_int.h
+	"common.h"
+	<ostream>
+
+1523734920 f:\personal\somon\somon\mysql\querydef.h
+
+1523734920 f:\personal\somon\somon\mysql\result.h
+	"common.h"
+	"exceptions.h"
+	"field.h"
+	"field_names.h"
+	"field_types.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"row.h"
+
+1523734860 f:\personal\somon\somon\mysql\field.h
+	"common.h"
+	"type_info.h"
+	<vector>
+
+1523734860 f:\personal\somon\somon\mysql\field_names.h
+	<string>
+	<vector>
+
+1523734860 f:\personal\somon\somon\mysql\field_types.h
+	"type_info.h"
+	<vector>
+
+1523734920 f:\personal\somon\somon\mysql\row.h
+	"common.h"
+	"mystring.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"vallist.h"
+	<vector>
+	<string>
+
+1523734860 f:\personal\somon\somon\mysql\mystring.h
+	"common.h"
+	"datetime.h"
+	"exceptions.h"
+	"null.h"
+	"sql_buffer.h"
+	<string>
+	<sstream>
+	<limits>
+	<stdlib.h>
+	<string.h>
+
+1523734920 f:\personal\somon\somon\mysql\vallist.h
+	"manip.h"
+	<string>
+	<vector>
+
+1523734860 f:\personal\somon\somon\mysql\manip.h
+	"common.h"
+	"myset.h"
+	"stadapter.h"
+	<iostream>
+
+1523734860 f:\personal\somon\somon\mysql\myset.h
+	"common.h"
+	"mystring.h"
+	"stream2string.h"
+	<iostream>
+	<set>
+
+1523734920 f:\personal\somon\somon\mysql\stream2string.h
+	<sstream>
+	<string>
+
+1523734920 f:\personal\somon\somon\mysql\sqlstream.h
+	"common.h"
+	<sstream>
+
+1523734920 f:\personal\somon\somon\mysql\transaction.h
+	"common.h"
+
+1523734860 f:\personal\somon\somon\mysql\insertpolicy.h
+
+1523734920 f:\personal\somon\somon\mysql\scopedconnection.h
+	"common.h"
+
+1523734920 f:\personal\somon\somon\mysql\sql_types.h
+	"common.h"
+	"tiny_int.h"
+	<string>
+	<stdint.h>
+
+1498006102 source:f:\personal\somon\somon\json\json11.cpp
+	"json11.hpp"
+	<cassert>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<limits>
+
+1498006102 f:\personal\somon\somon\json\json11.hpp
+	<string>
+	<vector>
+	<map>
+	<memory>
+	<initializer_list>
+
+1534194327 source:f:\personal\somon\somon\tabla.cpp
+	"Tabla.h"
+	<time.h>
+	"Database.h"
+
+1534200662 f:\personal\somon\somon\tabla.h
+	<string>
+	<vector>
+	<vector>
+	"Database.h"
+	<algorithm>
+	<unordered_map>
+	<queue>
+	"Database.h"
+
+1559920310 source:f:\personal\somon\somon\main.cpp
+	<iostream>
+	"Tabla.h"
+	"Database.h"
+	<wchar.h>
+	"main.h"
+	"json/json11.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+	<fstream>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cstring>
+	"Link2Dom.h"
+	<dirent.h>
+
+1536769146 f:\personal\somon\somon\main.h
+	<cstdio>
+	<iostream>
+	<memory>
+	<stdexcept>
+	<string>
+	<array>
+	<stdio.h>
+
+1534878815 f:\personal\somon\somon\link2dom.h
+

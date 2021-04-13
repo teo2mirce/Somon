@@ -1,0 +1,32 @@
+
+ tfoot td{
+    background-color: #2050AA;
+	color: #EEE
+}
+
+#Framed
+{
+	margin-left: 2.5%;
+	width: 95%;
+	height: 90%;
+}
+
+td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
+
+
+
+
+div.inline {
+	display:inline-block;
+}
+
+
+
+
+ .selected {
+    background-color: #4080FF !important;
+}
