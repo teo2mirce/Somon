@@ -5,5 +5,3 @@ Website:
 http://somon.xyz
 Youtube tutorials:
 https://www.youtube.com/channel/UCmnCuqLAZHChEXH4QZkjleQ
-
-Todo: add powerpoint presentation and add more details
